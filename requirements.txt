@@ -1,0 +1,5 @@
+ fastapi
+ sqlalchemy.ext.declarative 
+ sqlalchemy.orm 
+ pydantic 
+ uvicorn
